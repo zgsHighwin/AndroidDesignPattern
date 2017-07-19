@@ -1,2 +1,2 @@
 # AndroidDesignPattern
-安卓的设计模式
+安卓设计模式
